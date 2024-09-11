@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #F1FAEE;
+    color: #1D3557;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #E63946;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+h1 {
+    margin: 0;
+}
+
+.history {
+    padding: 20px;
+    background-color: #A8DADC;
+}
+
+h2 {
+    color: #457B9D;
+}
+
+footer {
+    background-color: #1D3557;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
